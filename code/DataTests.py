@@ -22,3 +22,6 @@ print(forest.head())
 surface = pd.read_csv(os.path.join(base_dir, "data", "surface_temperature.csv"))
 print(surface.head())
 
+
+
+
